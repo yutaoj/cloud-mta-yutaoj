@@ -5,7 +5,7 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.comyutaoj/cloud-mta-yutaoj/mta"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 var _ = Describe("SemanticDeprecatedOpts", func() {
