@@ -11,8 +11,8 @@ import (
 	. "github.com/onsi/gomega/gstruct"
 	"gopkg.in/yaml.v3"
 
-	"github.comyutaoj/cloud-mta-yutaoj/internal/fs"
-	"github.comyutaoj/cloud-mta-yutaoj/mta"
+	"github.com/yutaoj/cloud-mta-yutaoj/internal/fs"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 func getTestPath(relPath ...string) string {

@@ -9,8 +9,8 @@ import (
 	. "github.com/onsi/gomega"
 	. "github.com/onsi/gomega/types"
 
-	"github.comyutaoj/cloud-mta-yutaoj/internal/fs"
-	"github.comyutaoj/cloud-mta-yutaoj/mta"
+	"github.com/yutaoj/cloud-mta-yutaoj/internal/fs"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 func callResolveAndGetOutput(wd, moduleName, yamlPath string, extensions []string, envFileName string) (ResolveResult, []string) {
