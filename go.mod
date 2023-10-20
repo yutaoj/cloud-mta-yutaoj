@@ -1,4 +1,4 @@
-module github.com/SAP/cloud-mta
+module github.com/yutaoj/cloud-mta-yutaoj
 
 go 1.17
 

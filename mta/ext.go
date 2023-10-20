@@ -3,12 +3,13 @@ package mta
 import (
 	"bytes"
 	"fmt"
-	"github.com/pkg/errors"
-	"gopkg.in/yaml.v3"
 	"path/filepath"
 	"strings"
 
-	"github.com/SAP/cloud-mta/internal/fs"
+	"github.com/pkg/errors"
+	"gopkg.in/yaml.v3"
+
+	"github.com/yutaoj/cloud-mta-yutaoj/internal/fs"
 )
 
 const (

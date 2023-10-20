@@ -2,9 +2,10 @@ package validate
 
 import (
 	"fmt"
+
 	"gopkg.in/yaml.v3"
 
-	"github.com/SAP/cloud-mta/mta"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 func checkStringProperty(props map[string]interface{}, propsNode *yaml.Node, propName string) []YamlValidationIssue {

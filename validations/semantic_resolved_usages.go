@@ -2,12 +2,13 @@ package validate
 
 import (
 	"fmt"
-	"gopkg.in/yaml.v3"
 	"reflect"
 	"regexp"
 	"strings"
 
-	"github.com/SAP/cloud-mta/mta"
+	"gopkg.in/yaml.v3"
+
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 // ifRequiredDefined - validates that required property sets are defined in modules, provided sections or resources

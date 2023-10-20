@@ -1,10 +1,11 @@
 package validate
 
 import (
-	"gopkg.in/yaml.v3"
 	"strings"
 
-	"github.com/SAP/cloud-mta/mta"
+	"gopkg.in/yaml.v3"
+
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 type checkSemantic func(mta *mta.MTA, root *yaml.Node, source string, strict bool) (errors []YamlValidationIssue, warnings []YamlValidationIssue)

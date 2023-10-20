@@ -6,7 +6,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/SAP/cloud-mta/mta"
+	"github.comyutaoj/cloud-mta-yutaoj/mta"
 )
 
 var _ = Describe("metadata semantic validations", func() {

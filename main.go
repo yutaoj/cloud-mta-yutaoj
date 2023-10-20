@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/SAP/cloud-mta/cmd"
+	commands "github.com/yutaoj/cloud-mta-yutaoj/cmd"
 )
 
 func main() {

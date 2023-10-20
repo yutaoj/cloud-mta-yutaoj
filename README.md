@@ -1,11 +1,11 @@
-[![CircleCI](https://circleci.com/gh/SAP/cloud-mta.svg?style=svg)](https://circleci.com/gh/SAP/cloud-mta)
-[![Go Report Card](https://goreportcard.com/badge/github.com/SAP/cloud-mta)](https://goreportcard.com/report/github.com/SAP/cloud-mta)
-[![Coverage Status](https://coveralls.io/repos/github/SAP/cloud-mta/badge.svg?branch=CD)](https://coveralls.io/github/SAP/cloud-mta?branch=CD)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/SAP/cloud-mta/blob/master/.github/CONTRIBUTING.md)
-[![GoDoc](https://godoc.org/github.com/SAP/cloud-mta?status.svg)](https://godoc.org/github.com/SAP/cloud-mta/mta)
+[![CircleCI](https://circleci.com/gh/yutaoj/cloud-mta-yutaoj.svg?style=svg)](https://circleci.com/gh/yutaoj/cloud-mta-yutaoj)
+[![Go Report Card](https://goreportcard.com/badge/github.com/yutaoj/cloud-mta-yutaoj)](https://goreportcard.com/report/github.com/yutaoj/cloud-mta-yutaoj)
+[![Coverage Status](https://coveralls.io/repos/github/yutaoj/cloud-mta-yutaoj/badge.svg?branch=CD)](https://coveralls.io/github/yutaoj/cloud-mta-yutaoj?branch=CD)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yutaoj/cloud-mta-yutaoj/blob/master/.github/CONTRIBUTING.md)
+[![GoDoc](https://godoc.org/github.com/yutaoj/cloud-mta-yutaoj?status.svg)](https://godoc.org/github.com/yutaoj/cloud-mta-yutaoj/mta)
 ![pre-alpha](https://img.shields.io/badge/Release-pre--alpha-orange.svg)
 [![dependentbot](https://api.dependabot.com/badges/status?host=github&repo=SAP/cloud-mta)](https://dependabot.com/)
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP/cloud-mta)](https://api.reuse.software/info/github.com/SAP/cloud-mta)
+[![REUSE status](https://api.reuse.software/badge/github.com/yutaoj/cloud-mta-yutaoj)](https://api.reuse.software/info/github.com/yutaoj/cloud-mta-yutaoj)
 
                    
 # Description
@@ -39,7 +39,7 @@ The tool commands (APIs) are used to do the following:
 2.  Download and install it:
 
     ```sh
-    $ go get github.com/SAP/cloud-mta/mta
+    $ go get github.com/yutaoj/cloud-mta-yutaoj/mta
     ```
 
 ### Usage
@@ -47,7 +47,7 @@ The tool commands (APIs) are used to do the following:
  - Import it into your source code:
 
     ```go
-    import "github.com/SAP/cloud-mta/mta"
+    import "github.com/yutaoj/cloud-mta-yutaoj/mta"
     ```
 
  -  Quick start example:
@@ -140,9 +140,9 @@ More and more npm packages use ECMAScript modules instead of commonJS, for ECMAS
 ## Contributions
 
 Contributions are greatly appreciated.
-See [CONTRIBUTING.md](https://github.com/SAP/cloud-mta/blob/master/.github/CONTRIBUTING.md) for details.
+See [CONTRIBUTING.md](https://github.com/yutaoj/cloud-mta-yutaoj/blob/master/.github/CONTRIBUTING.md) for details.
 
 ## Support
 
-Please follow our [issue template](https://github.com/SAP/cloud-mta/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) on how to report an issue.
+Please follow our [issue template](https://github.com/yutaoj/cloud-mta-yutaoj/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) on how to report an issue.
 

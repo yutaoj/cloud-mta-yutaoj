@@ -1,10 +1,11 @@
 package resolver
 
 import (
-	"github.com/SAP/cloud-mta/internal/logs"
 	"os"
 	"path/filepath"
 	"testing"
+
+	"github.comyutaoj/cloud-mta-yutaoj/internal/logs"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
