@@ -1,11 +1,11 @@
 package commands
 
 import (
-	"github.com/SAP/cloud-mta/internal/logs"
-	"github.com/SAP/cloud-mta/internal/version"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"github.com/x-cray/logrus-prefixed-formatter"
+	prefixed "github.com/x-cray/logrus-prefixed-formatter"
+	"github.com/yutaoj/cloud-mta-yutaoj/internal/logs"
+	"github.com/yutaoj/cloud-mta-yutaoj/internal/version"
 )
 
 var cfgFile string

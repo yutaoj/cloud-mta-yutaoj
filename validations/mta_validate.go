@@ -2,16 +2,17 @@ package validate
 
 import (
 	"fmt"
-	"gopkg.in/yaml.v3"
 	"path/filepath"
 	"regexp"
 	"strconv"
 	"strings"
 
+	"gopkg.in/yaml.v3"
+
 	"github.com/pkg/errors"
 
-	"github.com/SAP/cloud-mta/internal/fs"
-	"github.com/SAP/cloud-mta/mta"
+	"github.com/yutaoj/cloud-mta-yutaoj/internal/fs"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 const (

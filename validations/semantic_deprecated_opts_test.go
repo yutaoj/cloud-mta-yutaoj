@@ -2,9 +2,10 @@ package validate
 
 import (
 	"fmt"
-	"github.com/SAP/cloud-mta/mta"
+
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 var _ = Describe("SemanticDeprecatedOpts", func() {

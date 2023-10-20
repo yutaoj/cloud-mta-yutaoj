@@ -16,7 +16,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/SAP/cloud-mta/internal/fs"
+	"github.com/yutaoj/cloud-mta-yutaoj/internal/fs"
 )
 
 func getMtaInput() MTA {

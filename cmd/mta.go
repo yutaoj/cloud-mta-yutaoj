@@ -6,9 +6,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/SAP/cloud-mta/internal/logs"
-	"github.com/SAP/cloud-mta/mta"
-	"github.com/SAP/cloud-mta/validations"
+	"github.com/yutaoj/cloud-mta-yutaoj/internal/logs"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
+	validate "github.com/yutaoj/cloud-mta-yutaoj/validations"
 )
 
 var createMtaCmdPath string

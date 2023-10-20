@@ -3,7 +3,7 @@ package commands
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/SAP/cloud-mta/mta"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 var addModuleMtaCmdPath string

@@ -5,7 +5,7 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/SAP/cloud-mta/mta"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 const (

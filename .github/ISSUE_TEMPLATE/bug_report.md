@@ -5,7 +5,7 @@ about: Create a report to help us improve
 
 Do you want to request a feature or report a bug?
 
-- Please search existing issues to avoid creating duplicates. https://github.com/SAP/cloud-mta/releases. 
+- Please search existing issues to avoid creating duplicates. https://github.com/yutaoj/cloud-mta-yutaoj/releases. 
 - Also please test using the `latest` version build to make sure your issue has not already been fixed: 
 
 <!--Use Help > Report Issue to prefill these. -->

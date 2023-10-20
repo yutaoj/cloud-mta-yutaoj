@@ -10,8 +10,8 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/pkg/errors"
 
-	"github.com/SAP/cloud-mta/internal/logs"
-	"github.com/SAP/cloud-mta/mta"
+	"github.com/yutaoj/cloud-mta-yutaoj/internal/logs"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 const (

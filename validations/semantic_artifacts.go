@@ -2,11 +2,12 @@ package validate
 
 import (
 	"fmt"
-	"gopkg.in/yaml.v3"
 	"os"
 	"path/filepath"
 
-	"github.com/SAP/cloud-mta/mta"
+	"gopkg.in/yaml.v3"
+
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 // ifNoSourceParamBool - validates that "no-source" build parameter is boolean if defined

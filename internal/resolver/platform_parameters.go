@@ -4,12 +4,12 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/SAP/cloud-mta/mta"
+	"github.com/yutaoj/cloud-mta-yutaoj/mta"
 )
 
 type vcapServices map[string][]VcapService
 
-//VcapService - vcap service struct
+// VcapService - vcap service struct
 type VcapService struct {
 	Name         string   `json:"name"`
 	InstanceName string   `json:"instance_name"`
